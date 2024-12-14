@@ -23,7 +23,7 @@ pip install discord.py
 ```
 asyncio and heapq are built-in Python modules, so you don't need to install them separately.
 
-#### Step 3: Configure Rate Limiting Settings
+## Step 3: Configure Rate Limiting Settings
 
 In the `main.py` file, you can modify the rate-limiting settings for your bot. The `antiratelimit` class allows you to configure the following parameters:
 
